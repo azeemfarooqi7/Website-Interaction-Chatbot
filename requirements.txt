@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+langchain-google-genai
+streamlit
+langchain_community
+langchain_groq
+requests
+bs4
+langchain_core
+langchain_google_genai
